@@ -7,7 +7,10 @@ element1 = driver.find_element_by_name("mesto")
 element1.send_keys("Strmilov")
 driver.find_element_by_name("hledat").click()
 
-assert " teplota:" not in driver.page_source
+element2 = driver.find_element_by_id("t_0")
+print (element2)
+
+assert " teplota:" in driver.page_source
 #element2.send_keys("fs@strmilov.cz")
 #
 
@@ -30,5 +33,5 @@ assert " teplota:" not in driver.page_source
 #elem.send_keys(Keys.RETURN)
 #assert "No results found." not in driver.page_source
 #nadpis = driver.find_element_by_name('name')
-print ("tak nic")
+print ("Dobehnul az do konce")
 #driver.close()
