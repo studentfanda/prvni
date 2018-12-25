@@ -7,7 +7,7 @@ element1 = driver.find_element_by_name("mesto")
 element1.send_keys("Strmilov")
 driver.find_element_by_name("hledat").click()
 
-element2 = driver.find_element_by_id("t_0")
+element2 = driver.find_element_by_id("t_0").text
 print (element2)
 
 assert " teplota:" in driver.page_source
