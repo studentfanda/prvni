@@ -152,3 +152,769 @@ console.error: BroadcastService:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
 
 1545764670079	Marionette	INFO	Stopped listening on port 35657
+1545830584070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NAGiRgny9fCQ"
+1545830584654	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545830584722	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545830584725	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:30073): Gtk-WARNING **: 14:23:06.226: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30073): Gtk-WARNING **: 14:23:06.226: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545830588309	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545830588772	Marionette	INFO	Listening on port 35591
+1545830588799	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545830990917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RBA7jukaFTpG"
+1545830991242	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545830991286	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545830991290	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:30676): Gtk-WARNING **: 14:29:51.684: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30676): Gtk-WARNING **: 14:29:51.684: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545830992867	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545830993082	Marionette	INFO	Listening on port 44587
+1545830993137	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545831082526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5uFldF7lx8LV"
+1545831082934	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831082995	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545831082998	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:31040): Gtk-WARNING **: 14:31:24.180: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31040): Gtk-WARNING **: 14:31:24.180: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545831085624	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831085856	Marionette	INFO	Listening on port 41313
+1545831085951	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545831728440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T33I3xZoduAC"
+1545831728918	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831728990	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545831728993	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:32005): Gtk-WARNING **: 14:42:10.296: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32005): Gtk-WARNING **: 14:42:10.296: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545831731914	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831732174	Marionette	INFO	Listening on port 38079
+1545831732287	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545831794384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8TyPZ6meBVOe"
+1545831794899	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831794963	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545831794965	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:32347): Gtk-WARNING **: 14:43:16.557: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32347): Gtk-WARNING **: 14:43:16.557: Theme parsing error: <data>:1:77: Expected ')' in color definition
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1545831797735	Marionette	INFO	Stopped listening on port 41313
+1545831798340	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831798798	Marionette	INFO	Listening on port 44261
+1545831798902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545831799636	Marionette	INFO	Stopped listening on port 38079
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+1545831801762	Marionette	INFO	Stopped listening on port 35591
+[Parent 30676, Gecko_IOThread] WARNING: pipe error (127): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545831803404	Marionette	INFO	Stopped listening on port 44587
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545831865733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wKfE4XeaWs2F"
+1545831866112	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831866160	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545831866163	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:32702): Gtk-WARNING **: 14:44:26.680: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:32702): Gtk-WARNING **: 14:44:26.680: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545831868118	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545831868495	Marionette	INFO	Listening on port 38227
+1545831868551	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545831958662	Marionette	INFO	Stopped listening on port 38227
+1545831960250	Marionette	INFO	Stopped listening on port 44261
+1545832040759	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YXUIzLmCpfjE"
+1545832041067	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832041117	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832041120	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:675): Gtk-WARNING **: 14:47:21.584: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:675): Gtk-WARNING **: 14:47:21.584: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832042776	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832043149	Marionette	INFO	Listening on port 39561
+1545832043178	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832136034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HXrceHb80NzF"
+1545832136338	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832136389	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832136392	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:1025): Gtk-WARNING **: 14:48:56.850: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1025): Gtk-WARNING **: 14:48:56.850: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832137990	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832138417	Marionette	INFO	Listening on port 39719
+1545832138452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832210618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QXidqTQ1xFMd"
+1545832210945	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832210991	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832210994	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:1354): Gtk-WARNING **: 14:50:11.454: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1354): Gtk-WARNING **: 14:50:11.454: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832212658	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832213072	Marionette	INFO	Listening on port 46527
+1545832213138	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832337833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K8FuJU0GVoim"
+1545832338147	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832338198	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832338201	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:1722): Gtk-WARNING **: 14:52:18.636: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:1722): Gtk-WARNING **: 14:52:18.636: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832339813	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832340198	Marionette	INFO	Listening on port 46183
+1545832340252	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 675, Gecko_IOThread] WARNING: pipe error (135): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545832388893	Marionette	INFO	Stopped listening on port 39561
+1545832390023	Marionette	INFO	Stopped listening on port 39719
+1545832391454	Marionette	INFO	Stopped listening on port 46527
+[Parent 1722, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545832392617	Marionette	INFO	Stopped listening on port 46183
+1545832428351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CFj0pjQvvDoP"
+1545832428651	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832428706	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832428709	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:2163): Gtk-WARNING **: 14:53:49.126: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2163): Gtk-WARNING **: 14:53:49.126: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832430296	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832430619	Marionette	INFO	Listening on port 41051
+1545832430674	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832470305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Fq3xJ2BdjVS7"
+1545832470587	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832470637	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832470640	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:2482): Gtk-WARNING **: 14:54:31.079: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2482): Gtk-WARNING **: 14:54:31.079: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832472164	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832472552	Marionette	INFO	Listening on port 34597
+1545832472631	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832571079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ccUimcp5Vz9J"
+1545832571481	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832571534	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832571537	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:2930): Gtk-WARNING **: 14:56:12.029: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2930): Gtk-WARNING **: 14:56:12.029: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832573203	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832573576	Marionette	INFO	Listening on port 42383
+1545832573594	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832628861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ckDbsQRXXTKE"
+1545832629146	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832629198	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832629201	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:3311): Gtk-WARNING **: 14:57:09.647: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3311): Gtk-WARNING **: 14:57:09.647: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832630829	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832631258	Marionette	INFO	Listening on port 41529
+1545832631275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+[Child 2321, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 2163, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 2163, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545832657561	Marionette	INFO	Stopped listening on port 41051
+[Parent 2482, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545832660036	Marionette	INFO	Stopped listening on port 34597
+[Parent 2930, Gecko_IOThread] WARNING: pipe error (152): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545832662571	Marionette	INFO	Stopped listening on port 42383
+1545832665193	Marionette	INFO	Stopped listening on port 41529
+1545832699020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yP7SLzxpIgxr"
+1545832699490	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832699566	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832699569	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:3776): Gtk-WARNING **: 14:58:20.814: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3776): Gtk-WARNING **: 14:58:20.814: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832702189	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832702517	Marionette	INFO	Listening on port 34481
+1545832702552	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832817510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VLvzwAw7YrjI"
+1545832817805	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832817855	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832817858	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:4443): Gtk-WARNING **: 15:00:18.281: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4443): Gtk-WARNING **: 15:00:18.281: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832819444	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832819723	Marionette	INFO	Listening on port 45771
+1545832819826	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832866343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lFOltpemYCkS"
+1545832866638	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832866691	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832866693	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:4831): Gtk-WARNING **: 15:01:07.122: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4831): Gtk-WARNING **: 15:01:07.122: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832868473	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832868702	Marionette	INFO	Listening on port 34983
+1545832868766	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545832961206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.POc1lnCtwbKH"
+1545832961514	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832961565	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545832961568	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:5202): Gtk-WARNING **: 15:02:42.053: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5202): Gtk-WARNING **: 15:02:42.053: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545832963320	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545832963581	Marionette	INFO	Listening on port 36311
+1545832963619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545833116838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xCh9171hW7MD"
+1545833117363	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545833117429	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545833117431	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:5632): Gtk-WARNING **: 15:05:18.711: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5632): Gtk-WARNING **: 15:05:18.711: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545833120210	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545833120481	Marionette	INFO	Listening on port 44159
+1545833120607	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545833182560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n6cMKroxVpob"
+1545833183035	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545833183120	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545833183123	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:5992): Gtk-WARNING **: 15:06:24.309: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5992): Gtk-WARNING **: 15:06:24.309: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545833185819	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545833186514	Marionette	INFO	Listening on port 42109
+1545833186645	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545835325106	Marionette	INFO	Stopped listening on port 36311
+1545835327023	Marionette	INFO	Stopped listening on port 44159
+[Parent 5992, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545835328231	Marionette	INFO	Stopped listening on port 42109
+[Parent 4831, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545835329754	Marionette	INFO	Stopped listening on port 34983
+[Parent 4443, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545835331143	Marionette	INFO	Stopped listening on port 45771
+[Parent 3776, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1545835333649	Marionette	INFO	Stopped listening on port 34481
+1545835484865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xizEwkCiZEbS"
+1545835485443	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545835485510	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545835485513	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:8214): Gtk-WARNING **: 15:44:46.794: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8214): Gtk-WARNING **: 15:44:46.794: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545835488249	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545835488596	Marionette	INFO	Listening on port 33491
+1545835488698	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545837584905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FbaxRb49Rmgw"
+1545837585205	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545837585251	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545837585254	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:8992): Gtk-WARNING **: 16:19:45.696: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8992): Gtk-WARNING **: 16:19:45.696: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545837586845	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545837587078	Marionette	INFO	Listening on port 37669
+1545837587121	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545837666055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GP9st6xynCUI"
+1545837666363	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545837666410	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545837666413	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:9315): Gtk-WARNING **: 16:21:06.853: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9315): Gtk-WARNING **: 16:21:06.853: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545837667984	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545837668252	Marionette	INFO	Listening on port 43621
+1545837668279	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1545837712835	Marionette	INFO	Stopped listening on port 37669
+1545837715303	Marionette	INFO	Stopped listening on port 43621
+1545837719666	Marionette	INFO	Stopped listening on port 33491
+1545837786329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rerRYo3GTB3V"
+1545837786681	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545837786736	addons.xpi-utils	WARN	addMetadata: Add-on aushelper@mozilla.org is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 227"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:227
+loadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:856
+syncLoadManifestFromFile()@resource://gre/modules/addons/XPIInstall.jsm:870
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2395
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:2736
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2556
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2134
+callProvider()@resource://gre/modules/AddonManager.jsm:206
+_startProvider()@resource://gre/modules/AddonManager.jsm:654
+startup()@resource://gre/modules/AddonManager.jsm:807
+startup()@resource://gre/modules/AddonManager.jsm:2802
+observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
+1545837786739	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+
+(firefox:9737): Gtk-WARNING **: 16:23:07.160: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9737): Gtk-WARNING **: 16:23:07.160: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1545837788229	addons.xpi	WARN	Can't get modified time of /usr/lib64/firefox/browser/features/aushelper@mozilla.org.xpi
+1545837788598	Marionette	INFO	Listening on port 33409
+1545837788645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1545837802491	Marionette	INFO	Stopped listening on port 33409
+[Parent 9737, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
