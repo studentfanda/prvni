@@ -918,3 +918,1989 @@ observe()@jar:file:///usr/lib64/firefox/omni.ja!/components/addonManager.js:66
 1545837788645	Marionette	WARN	TLS certificate errors will be ignored for this session
 1545837802491	Marionette	INFO	Stopped listening on port 33409
 [Parent 9737, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-63.0.3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1546199598677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8W3CtJc5hR3m"
+1546199599861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546199599861	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:17691): Gtk-WARNING **: 20:53:20.414: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17691): Gtk-WARNING **: 20:53:20.414: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546199602640	Marionette	INFO	Listening on port 39957
+1546199602658	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546199827364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J4th2HePkcqg"
+1546199827888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546199827888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:18191): Gtk-WARNING **: 20:57:08.126: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18191): Gtk-WARNING **: 20:57:08.126: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546199829638	Marionette	INFO	Listening on port 42139
+1546199829685	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://blog.codeship.com/get-selenium-to-wait-for-page-load/, line 137: TypeError: addthis.bar is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1546200037306	Marionette	INFO	Stopped listening on port 39957
+1546200129331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YYSgx6ZG7fmW"
+1546200129858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546200129858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:18681): Gtk-WARNING **: 21:02:10.099: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18681): Gtk-WARNING **: 21:02:10.099: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546200131488	Marionette	INFO	Listening on port 39503
+1546200131569	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://s1.adform.net/banners/scripts/dt/digitrust.js, line 20: Error: [DigiTrust Iframe Error] Client could not connect to the iframe
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546200258264	Marionette	INFO	Stopped listening on port 39503
+1546200262320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mRe3y470lGIo"
+1546200262846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546200262847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:19241): Gtk-WARNING **: 21:04:23.098: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19241): Gtk-WARNING **: 21:04:23.098: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546200264594	Marionette	INFO	Listening on port 36035
+1546200264639	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546200704289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2Iu6m6riWrpx"
+1546200705009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546200705010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:20800): Gtk-WARNING **: 21:11:46.070: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20800): Gtk-WARNING **: 21:11:46.071: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546200707980	Marionette	INFO	Listening on port 39501
+1546200708015	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20943, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 20966, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546200725387	Marionette	INFO	Stopped listening on port 36035
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18191, Gecko_IOThread] WARNING: pipe error (255): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 18191, Gecko_IOThread] WARNING: pipe error (261): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 18191, Gecko_IOThread] WARNING: pipe error (135): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 18191, Gecko_IOThread] WARNING: pipe error (198): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546200727447	Marionette	INFO	Stopped listening on port 42139
+1546200729585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S8MXJMumNisq"
+1546200730135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546200730135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:21197): Gtk-WARNING **: 21:12:10.386: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21197): Gtk-WARNING **: 21:12:10.386: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546200731850	Marionette	INFO	Listening on port 44863
+1546200731894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546200855622	Marionette	INFO	Stopped listening on port 44863
+1546200907577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S7bwgzDqOOX2"
+1546200908095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546200908096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:22003): Gtk-WARNING **: 21:15:08.344: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22003): Gtk-WARNING **: 21:15:08.344: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546200909835	Marionette	INFO	Listening on port 35533
+1546200909886	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546200969110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2wUbu7OZDj9u"
+1546200969897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546200969897	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:22335): Gtk-WARNING **: 21:16:11.485: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22335): Gtk-WARNING **: 21:16:11.485: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546200973828	Marionette	INFO	Listening on port 46535
+1546200973997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546200975624	Marionette	INFO	Stopped listening on port 35533
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546201034991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cbhgy7aWCvQY"
+1546201035527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546201035527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:22683): Gtk-WARNING **: 21:17:15.809: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22683): Gtk-WARNING **: 21:17:15.809: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546201037578	Marionette	INFO	Listening on port 41375
+1546201037615	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546201038446	Marionette	INFO	Stopped listening on port 46535
+1546201074373	Marionette	INFO	Stopped listening on port 41375
+1546201076448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HbPETsRiWPce"
+1546201076980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546201076980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:23008): Gtk-WARNING **: 21:17:57.218: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23008): Gtk-WARNING **: 21:17:57.218: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546201078781	Marionette	INFO	Listening on port 33659
+1546201080887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546201167367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sGo2JWKQ1MRy"
+1546201167875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546201167876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:23374): Gtk-WARNING **: 21:19:28.123: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23374): Gtk-WARNING **: 21:19:28.124: Theme parsing error: <data>:1:77: Expected ')' in color definition
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546201169641	Marionette	INFO	Listening on port 41665
+1546201169693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546201267556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tGYyABQSDmmS"
+1546201268115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546201268115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:23740): Gtk-WARNING **: 21:21:08.369: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23740): Gtk-WARNING **: 21:21:08.369: Theme parsing error: <data>:1:77: Expected ')' in color definition
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546201269929	Marionette	INFO	Listening on port 33835
+1546201269968	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23008, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 23008, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546201312094	Marionette	INFO	Stopped listening on port 33659
+1546201314684	Marionette	INFO	Stopped listening on port 33835
+[Parent 23374, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 23374, Gecko_IOThread] WARNING: pipe error (176): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546201316052	Marionette	INFO	Stopped listening on port 41665
+1546201318864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JyQOEzHsSzQF"
+1546201319531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546201319532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:24098): Gtk-WARNING **: 21:22:00.618: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24098): Gtk-WARNING **: 21:22:00.618: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546201322276	Marionette	INFO	Listening on port 41529
+1546201322416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546201353270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XcwSkzouLeB2"
+1546201353804	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546201353805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:24399): Gtk-WARNING **: 21:22:34.050: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24399): Gtk-WARNING **: 21:22:34.050: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546201355555	Marionette	INFO	Listening on port 43103
+1546201355613	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24098, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546201361084	Marionette	INFO	Stopped listening on port 41529
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 24399, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546203559821	Marionette	INFO	Stopped listening on port 43103
+1546205718588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GE6HnB3amkVv"
+1546205719096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546205719097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:25932): Gtk-WARNING **: 22:35:19.333: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25932): Gtk-WARNING **: 22:35:19.333: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546205720872	Marionette	INFO	Listening on port 36249
+1546205720909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546205732067	Marionette	INFO	Stopped listening on port 36249
+1546206694901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CDOZZIKranyb"
+1546206695414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546206695414	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:26761): Gtk-WARNING **: 22:51:35.669: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26761): Gtk-WARNING **: 22:51:35.669: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546206697233	Marionette	INFO	Listening on port 34551
+1546206697312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546206756469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rFJaCHuk6IBY"
+1546206757060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546206757060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:27112): Gtk-WARNING **: 22:52:38.307: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27112): Gtk-WARNING **: 22:52:38.307: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546206759987	Marionette	INFO	Listening on port 43743
+1546206760202	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1546206762083	Marionette	INFO	Stopped listening on port 34551
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546206776289	Marionette	INFO	Stopped listening on port 43743
+1546206862022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rzxHoplKQCLs"
+1546206862667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546206862667	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:27453): Gtk-WARNING **: 22:54:22.995: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27453): Gtk-WARNING **: 22:54:22.995: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546206864657	Marionette	INFO	Listening on port 36267
+1546206864768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546206897452	Marionette	INFO	Stopped listening on port 36267
+[Parent 27453, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546206995041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.enSxD0i6NJW8"
+1546206995556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546206995556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:27848): Gtk-WARNING **: 22:56:35.798: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27848): Gtk-WARNING **: 22:56:35.798: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546206997411	Marionette	INFO	Listening on port 46277
+1546206998478	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546207058773	Marionette	INFO	Stopped listening on port 46277
+1546207060578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9usbLZHpLqAp"
+1546207061078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546207061079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:28189): Gtk-WARNING **: 22:57:41.312: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28189): Gtk-WARNING **: 22:57:41.312: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546207062774	Marionette	INFO	Listening on port 42155
+1546207062795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://www.tutorialspoint.com/theme/js/script-min-v4.js?v=2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1546207134819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fkaIHpqPBCrd"
+1546207135329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546207135329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:28545): Gtk-WARNING **: 22:58:55.575: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28545): Gtk-WARNING **: 22:58:55.575: Theme parsing error: <data>:1:77: Expected ')' in color definition
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546207137251	Marionette	INFO	Listening on port 34373
+1546207137333	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546207193891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l3ahwIi479Ft"
+1546207194602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546207194602	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:28854): Gtk-WARNING **: 22:59:55.641: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28854): Gtk-WARNING **: 22:59:55.641: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546207198632	Marionette	INFO	Listening on port 42027
+1546207198712	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 28708, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 28545, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546207200007	Marionette	INFO	Stopped listening on port 34373
+1546207243060	Marionette	INFO	Stopped listening on port 42027
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 29006, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1546207562463	Marionette	INFO	Stopped listening on port 42155
+1546207567447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iFzIFXsivtoI"
+1546207568048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546207568048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:29508): Gtk-WARNING **: 23:06:08.366: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29508): Gtk-WARNING **: 23:06:08.366: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546207570071	Marionette	INFO	Listening on port 41467
+1546207570199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546207605885	Marionette	INFO	Stopped listening on port 41467
+1546207607620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EoTbJZjI6gs4"
+1546207608134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546207608134	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:29868): Gtk-WARNING **: 23:06:48.372: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29868): Gtk-WARNING **: 23:06:48.372: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546207609890	Marionette	INFO	Listening on port 44321
+1546207609932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+[Child 30042, Chrome_ChildThread] WARNING: pipe error (41): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546207971142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XDque1bZkocM"
+1546207971795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546207971795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:30503): Gtk-WARNING **: 23:12:52.829: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30503): Gtk-WARNING **: 23:12:52.829: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546207974586	Marionette	INFO	Listening on port 42705
+1546207974666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s1.adform.net/stoat/614/s1.adform.net/load/v/0.0.164/e/.gBBwEo/i/8IG-xAAAACAA/r:types/ThirdParty, line 80: TypeError: a is undefined
+1546208021499	Marionette	INFO	Stopped listening on port 42705
+[Parent 30503, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1546208077915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i5wCWgq9staF"
+1546208078463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546208078464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:30861): Gtk-WARNING **: 23:14:38.706: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30861): Gtk-WARNING **: 23:14:38.706: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546208080242	Marionette	INFO	Listening on port 44689
+1546208080386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546208095129	Marionette	INFO	Stopped listening on port 44689
+[Parent 30861, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546208340900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RHkAUjNN0cxW"
+1546208341429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546208341429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:31264): Gtk-WARNING **: 23:19:01.712: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31264): Gtk-WARNING **: 23:19:01.712: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546208343162	Marionette	INFO	Listening on port 40795
+1546208343215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546208359907	Marionette	INFO	Stopped listening on port 40795
+[Child 31445, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546208513540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L6SzVHQiy8Bi"
+1546208514057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546208514057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:31672): Gtk-WARNING **: 23:21:54.300: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:31672): Gtk-WARNING **: 23:21:54.300: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546208515839	Marionette	INFO	Listening on port 34089
+1546208515858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546208526926	Marionette	INFO	Stopped listening on port 34089
+[Parent 31672, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1546209166373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J1VuMrDxEdx2"
+1546209166877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546209166878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5584): Gtk-WARNING **: 23:32:47.115: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5584): Gtk-WARNING **: 23:32:47.115: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546209168587	Marionette	INFO	Listening on port 45951
+1546209168725	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 5584, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546209234155	Marionette	INFO	Stopped listening on port 45951
+1546209236035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4tYgwFox2VzG"
+1546209236536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546209236536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5943): Gtk-WARNING **: 23:33:56.785: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5943): Gtk-WARNING **: 23:33:56.785: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546209238378	Marionette	INFO	Listening on port 44683
+1546209238492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546209279901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N7eubWxnBfAa"
+1546209280416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546209280416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:6252): Gtk-WARNING **: 23:34:40.661: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6252): Gtk-WARNING **: 23:34:40.661: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546209282244	Marionette	INFO	Listening on port 36771
+1546209283331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546209336745	Marionette	INFO	Stopped listening on port 44683
+[Child 6410, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 6410, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 6410, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 6410, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 6410, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546209338124	Marionette	INFO	Stopped listening on port 36771
+1546209341568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8U0LSFm8MHqB"
+1546209342357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546209342357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:6589): Gtk-WARNING **: 23:35:43.359: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6589): Gtk-WARNING **: 23:35:43.360: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546209345088	Marionette	INFO	Listening on port 45005
+1546209345243	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546209883141	Marionette	INFO	Stopped listening on port 45005
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546209885925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u4HHDHdDooCw"
+1546209886417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546209886417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:7190): Gtk-WARNING **: 23:44:46.652: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7190): Gtk-WARNING **: 23:44:46.652: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546209888121	Marionette	INFO	Listening on port 45707
+1546209888158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546209914418	Marionette	INFO	Stopped listening on port 45707
+1546210001665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IxxluS1N1yXe"
+1546210002208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210002209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:7557): Gtk-WARNING **: 23:46:42.463: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7557): Gtk-WARNING **: 23:46:42.463: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210003954	Marionette	INFO	Listening on port 43623
+1546210003987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210104258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ADfkEjbaDLjA"
+1546210104780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210104780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:7882): Gtk-WARNING **: 23:48:25.031: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7882): Gtk-WARNING **: 23:48:25.031: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210106551	Marionette	INFO	Listening on port 40339
+1546210106577	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210278697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rwBkgk7l8g6J"
+1546210279492	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210279493	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:8294): Gtk-WARNING **: 23:51:19.833: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8294): Gtk-WARNING **: 23:51:19.833: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210281898	Marionette	INFO	Listening on port 36389
+1546210281927	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210357504	Marionette	INFO	Stopped listening on port 40339
+1546210359108	Marionette	INFO	Stopped listening on port 36389
+[Parent 7557, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546210360429	Marionette	INFO	Stopped listening on port 43623
+1546210363500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GL1I6ilbVa6j"
+1546210364176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210364177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:8667): Gtk-WARNING **: 23:52:44.496: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8667): Gtk-WARNING **: 23:52:44.496: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210366132	Marionette	INFO	Listening on port 45679
+1546210366231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546210439781	Marionette	INFO	Stopped listening on port 45679
+1546210441360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pUZEntTGAYdj"
+1546210441863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210441864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:8999): Gtk-WARNING **: 23:54:02.104: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8999): Gtk-WARNING **: 23:54:02.104: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210443593	Marionette	INFO	Listening on port 44533
+1546210443670	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210692734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qDxdfGOZGdXO"
+1546210693262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210693262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9499): Gtk-WARNING **: 23:58:13.526: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9499): Gtk-WARNING **: 23:58:13.527: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210695097	Marionette	INFO	Listening on port 45739
+1546210695161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546210716767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ufCK22dDbfUP"
+1546210717331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210717331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9814): Gtk-WARNING **: 23:58:37.647: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9814): Gtk-WARNING **: 23:58:37.647: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210719649	Marionette	INFO	Listening on port 37683
+1546210719697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546210720296	Marionette	INFO	Stopped listening on port 45739
+1546210722309	Marionette	INFO	Stopped listening on port 44533
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210788729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E7hAOefU1250"
+1546210789386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210789386	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10149): Gtk-WARNING **: 23:59:49.735: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10149): Gtk-WARNING **: 23:59:49.735: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210791294	Marionette	INFO	Listening on port 45145
+1546210791373	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210816125	Marionette	INFO	Stopped listening on port 45145
+[Parent 10149, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10312, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1546210846199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.01KslpUkJITE"
+1546210846753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210846753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10497): Gtk-WARNING **: 00:00:47.007: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10497): Gtk-WARNING **: 00:00:47.007: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210848519	Marionette	INFO	Listening on port 45673
+1546210848665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210911518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4nteWwYtbE3N"
+1546210912690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210912690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10862): Gtk-WARNING **: 00:01:56.322: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10862): Gtk-WARNING **: 00:01:56.322: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210920109	Marionette	INFO	Listening on port 42451
+1546210920168	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9814, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546210920899	Marionette	INFO	Stopped listening on port 37683
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546210968589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VFUbO9BXf76e"
+1546210969216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546210969216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11338): Gtk-WARNING **: 00:02:49.522: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11338): Gtk-WARNING **: 00:02:49.522: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546210971227	Marionette	INFO	Listening on port 32779
+1546210971327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546211002783	Marionette	INFO	Stopped listening on port 32779
+[Parent 11338, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 11338, Gecko_IOThread] WARNING: pipe error (134): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211033920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pGqSOsiNbH3O"
+1546211034433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211034433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11667): Gtk-WARNING **: 00:03:54.677: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11667): Gtk-WARNING **: 00:03:54.677: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211036234	Marionette	INFO	Listening on port 41811
+1546211037283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546211054199	Marionette	INFO	Stopped listening on port 41811
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546211070315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MUccDXp77SHE"
+1546211070850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211070850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:11978): Gtk-WARNING **: 00:04:31.107: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11978): Gtk-WARNING **: 00:04:31.107: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211072603	Marionette	INFO	Listening on port 40815
+1546211072640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546211085751	Marionette	INFO	Stopped listening on port 40815
+[Parent 11978, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 12137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 12137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 12137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 12137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 12137, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 12137, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211126656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Iuwm6xiVbtOa"
+1546211127176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211127176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:12303): Gtk-WARNING **: 00:05:27.424: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12303): Gtk-WARNING **: 00:05:27.425: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211128926	Marionette	INFO	Listening on port 46137
+1546211128976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546211177937	Marionette	INFO	Stopped listening on port 46137
+[Child 12462, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546211180458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KwltsBhXdbRv"
+1546211180996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211180996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:12662): Gtk-WARNING **: 00:06:21.250: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12662): Gtk-WARNING **: 00:06:21.250: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211182784	Marionette	INFO	Listening on port 36317
+1546211182873	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546211252777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zD7wi3Pj3OqM"
+1546211253303	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211253304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:12978): Gtk-WARNING **: 00:07:33.570: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12978): Gtk-WARNING **: 00:07:33.570: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211255208	Marionette	INFO	Listening on port 43063
+1546211256317	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546211306901	Marionette	INFO	Stopped listening on port 43063
+[Parent 12978, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211318843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hfyxhV7FMniF"
+1546211319550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211319550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:13325): Gtk-WARNING **: 00:08:40.694: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13325): Gtk-WARNING **: 00:08:40.694: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211322555	Marionette	INFO	Listening on port 38939
+1546211322567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546211352019	Marionette	INFO	Stopped listening on port 38939
+[Child 13492, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 13492, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 13492, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 13492, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 13492, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 13492, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 13492, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1546211422308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EyO3s5j55OWO"
+1546211423008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211423008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:13689): Gtk-WARNING **: 00:10:23.925: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13689): Gtk-WARNING **: 00:10:23.925: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211425745	Marionette	INFO	Listening on port 34843
+1546211425846	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546211465604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZC5ciRh5TyQh"
+1546211466211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211466211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:14002): Gtk-WARNING **: 00:11:07.889: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14002): Gtk-WARNING **: 00:11:07.889: Theme parsing error: <data>:1:77: Expected ')' in color definition
+[Parent 10862, Gecko_IOThread] WARNING: pipe error (134): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211468827	Marionette	INFO	Stopped listening on port 42451
+1546211469751	Marionette	INFO	Listening on port 43997
+1546211469822	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12662, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211471403	Marionette	INFO	Stopped listening on port 36317
+[Parent 13689, Gecko_IOThread] WARNING: pipe error (129): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211472651	Marionette	INFO	Stopped listening on port 34843
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546211715755	Marionette	INFO	Stopped listening on port 43997
+[Parent 14002, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 14160, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 14160, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211718059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.czH2ez4YFEXg"
+1546211718640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211718641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:14476): Gtk-WARNING **: 00:15:18.939: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14476): Gtk-WARNING **: 00:15:18.939: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211720613	Marionette	INFO	Listening on port 38549
+1546211720686	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546211861681	Marionette	INFO	Stopped listening on port 38549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546211865058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EQltoMi6uauP"
+1546211865578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211865579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:14874): Gtk-WARNING **: 00:17:45.819: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14874): Gtk-WARNING **: 00:17:45.819: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211867339	Marionette	INFO	Listening on port 32929
+1546211867377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546211917468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bVg6znr5GWfb"
+1546211918008	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211918009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:15188): Gtk-WARNING **: 00:18:38.266: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15188): Gtk-WARNING **: 00:18:38.266: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211919837	Marionette	INFO	Listening on port 41407
+1546211920895	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15347, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546211972552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.B3r8hdsQ5m5Y"
+1546211973056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546211973056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:15509): Gtk-WARNING **: 00:19:33.296: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15509): Gtk-WARNING **: 00:19:33.296: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546211974734	Marionette	INFO	Listening on port 37037
+1546211975202	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15509, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546212269679	Marionette	INFO	Stopped listening on port 37037
+1546212271015	Marionette	INFO	Stopped listening on port 32929
+1546212275365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.td0la8EP29Rs"
+1546212276132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212276132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:16191): Gtk-WARNING **: 00:24:36.651: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16191): Gtk-WARNING **: 00:24:36.651: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212278557	Marionette	INFO	Listening on port 40047
+1546212278584	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16191, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546212312747	Marionette	INFO	Stopped listening on port 40047
+1546212348809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KZ065ZDd0g7t"
+1546212349313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212349314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:16564): Gtk-WARNING **: 00:25:49.551: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16564): Gtk-WARNING **: 00:25:49.551: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212351025	Marionette	INFO	Listening on port 44209
+1546212351144	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546212395551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FCSwqFrCZuI2"
+1546212396140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212396140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:16918): Gtk-WARNING **: 00:26:36.421: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16918): Gtk-WARNING **: 00:26:36.421: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212397734	Marionette	INFO	Stopped listening on port 44209
+1546212398213	Marionette	INFO	Listening on port 42001
+1546212398262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546212473811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qGXfhx8rEL4e"
+1546212474362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212474362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:17270): Gtk-WARNING **: 00:27:54.641: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17270): Gtk-WARNING **: 00:27:54.641: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212476311	Marionette	INFO	Listening on port 35089
+1546212476356	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16918, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 16918, Gecko_IOThread] WARNING: pipe error (147): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546212478344	Marionette	INFO	Stopped listening on port 42001
+1546212565710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BvpMFJrx2P8x"
+1546212566240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212566241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:17629): Gtk-WARNING **: 00:29:26.495: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17629): Gtk-WARNING **: 00:29:26.495: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212568169	Marionette	INFO	Listening on port 40963
+1546212568279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546212583520	Marionette	INFO	Stopped listening on port 40963
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546212618212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uVUk8eSlmwxs"
+1546212618726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212618727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:17963): Gtk-WARNING **: 00:30:18.964: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17963): Gtk-WARNING **: 00:30:18.964: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212620550	Marionette	INFO	Listening on port 34851
+1546212621624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546212670009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XcSrkN8jANGV"
+1546212670550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212670551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:18295): Gtk-WARNING **: 00:31:10.807: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18295): Gtk-WARNING **: 00:31:10.807: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212673084	Marionette	INFO	Listening on port 42559
+1546212673149	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 17270, Gecko_IOThread] WARNING: pipe error (141): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546212808272	Marionette	INFO	Stopped listening on port 35089
+1546212809722	Marionette	INFO	Stopped listening on port 34851
+1546212818576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lGGWLmMOuUyQ"
+1546212820613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212820613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1546212824047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wSt8qFag8Ya1"
+1546212824598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212824599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:18967): Gtk-WARNING **: 00:33:48.508: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18967): Gtk-WARNING **: 00:33:48.508: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212834876	Marionette	INFO	Listening on port 35775
+1546212834891	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546212987289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iYtjTe7TyJpi"
+1546212987868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546212987868	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:19493): Gtk-WARNING **: 00:36:28.119: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19493): Gtk-WARNING **: 00:36:28.119: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546212989596	Marionette	INFO	Listening on port 38581
+1546212989626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546213039390	Marionette	INFO	Stopped listening on port 38581
+JavaScript error: jar:file:///usr/lib64/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1393: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 19493, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+[Child 19679, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546213070115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VDyVXEOWBaVL"
+1546213070633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546213070633	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:20042): Gtk-WARNING **: 00:37:50.866: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20042): Gtk-WARNING **: 00:37:50.866: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546213072404	Marionette	INFO	Listening on port 46847
+1546213072440	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546213197002	Marionette	INFO	Stopped listening on port 46847
+[Parent 20042, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546213199223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1AiLR5EyZova"
+1546213199738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546213199738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:20421): Gtk-WARNING **: 00:39:59.970: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20421): Gtk-WARNING **: 00:39:59.970: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546213201440	Marionette	INFO	Listening on port 35095
+1546213203543	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546213263477	Marionette	INFO	Stopped listening on port 35095
+[Parent 20421, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 20589, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1546213265847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qKWJEg4TjKN4"
+1546213266355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546213266356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:20761): Gtk-WARNING **: 00:41:06.613: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20761): Gtk-WARNING **: 00:41:06.613: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546213268089	Marionette	INFO	Listening on port 42015
+1546213268162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546213337142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Uk54XYkm0hgI"
+1546213337655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546213337655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:21141): Gtk-WARNING **: 00:42:17.895: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21141): Gtk-WARNING **: 00:42:17.895: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546213339404	Marionette	INFO	Listening on port 38207
+1546213339461	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546213707838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wwIFaBNyrA3k"
+1546213708372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546213708372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:21732): Gtk-WARNING **: 00:48:28.627: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21732): Gtk-WARNING **: 00:48:28.627: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546213710292	Marionette	INFO	Listening on port 36107
+1546213710397	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546213978121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xrrk02xoh4co"
+1546213978811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546213978812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:22538): Gtk-WARNING **: 00:52:59.135: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22538): Gtk-WARNING **: 00:52:59.135: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546213980782	Marionette	INFO	Listening on port 35761
+1546213980863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546214042060	Marionette	INFO	Stopped listening on port 35761
+[Parent 22538, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 22538, Gecko_IOThread] WARNING: pipe error (123): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 21891, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21732, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546214043877	Marionette	INFO	Stopped listening on port 36107
+[Parent 20761, Gecko_IOThread] WARNING: pipe error (140): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546214045509	Marionette	INFO	Stopped listening on port 42015
+1546214049299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0KjqylTY8FHD"
+1546214049939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546214049939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:22964): Gtk-WARNING **: 00:54:10.261: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22964): Gtk-WARNING **: 00:54:10.261: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546214051923	Marionette	INFO	Listening on port 39503
+1546214052016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546214084754	Marionette	INFO	Stopped listening on port 39503
+[Parent 22964, Gecko_IOThread] WARNING: pipe error (181): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546214101909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KNdTuvRZqxpi"
+1546214102450	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546214102451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:23315): Gtk-WARNING **: 00:55:02.699: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23315): Gtk-WARNING **: 00:55:02.699: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546214104146	Marionette	INFO	Listening on port 45751
+1546214104265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546214145530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AbnnK90LOXhL"
+1546214146185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546214146186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:23656): Gtk-WARNING **: 00:55:46.455: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23656): Gtk-WARNING **: 00:55:46.455: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546214148106	Marionette	INFO	Listening on port 42665
+1546214148164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546214351336	Marionette	INFO	Stopped listening on port 42665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546214405683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i4vjXnGJu2rA"
+1546214406274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546214406274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:24403): Gtk-WARNING **: 01:00:06.564: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24403): Gtk-WARNING **: 01:00:06.564: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546214408191	Marionette	INFO	Listening on port 37663
+1546214408305	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546214563788	Marionette	INFO	Stopped listening on port 37663
+[Parent 24403, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 24581, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 24581, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1546214566230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qa3PkLhaIzUE"
+1546214566761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546214566761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:24860): Gtk-WARNING **: 01:02:47.009: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24860): Gtk-WARNING **: 01:02:47.009: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546214568446	Marionette	INFO	Listening on port 44745
+1546214568542	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546217067824	Marionette	INFO	Stopped listening on port 44745
+[Parent 24860, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546217128488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d1hUCFvPyWBq"
+1546217129131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546217129132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:26658): Gtk-WARNING **: 01:45:30.161: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26658): Gtk-WARNING **: 01:45:30.161: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546217131816	Marionette	INFO	Listening on port 33223
+1546217131929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546217161020	Marionette	INFO	Stopped listening on port 33223
+1546217163008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Yz6FH0jIW678"
+1546217163531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546217163531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:27001): Gtk-WARNING **: 01:46:03.773: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27001): Gtk-WARNING **: 01:46:03.773: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546217165365	Marionette	INFO	Listening on port 40123
+1546217165467	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 27001, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 27001, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546220441378	Marionette	INFO	Stopped listening on port 40123
+1546259011120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.coKcUsML8YyU"
+1546259011812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546259011812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:5075): Gtk-WARNING **: 13:23:32.212: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5075): Gtk-WARNING **: 13:23:32.213: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546259014159	Marionette	INFO	Listening on port 35913
+1546259014235	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546263484387	Marionette	INFO	Stopped listening on port 35913
+[Parent 5075, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546263663341	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EtdXhtvHS0i1"
+1546263663877	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546263663878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:6699): Gtk-WARNING **: 14:41:04.116: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6699): Gtk-WARNING **: 14:41:04.116: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546263665541	Marionette	INFO	Listening on port 41585
+1546263665553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546263738660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nz99svh5cIkx"
+1546263739219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546263739220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:7056): Gtk-WARNING **: 14:42:19.476: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7056): Gtk-WARNING **: 14:42:19.476: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546263741007	Marionette	INFO	Listening on port 40989
+1546263741075	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 6699, Gecko_IOThread] WARNING: pipe error (159): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546263841947	Marionette	INFO	Stopped listening on port 41585
+1546263843273	Marionette	INFO	Stopped listening on port 40989
+1546263845239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ohKSyTOJhY3O"
+1546263845738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546263845738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:7433): Gtk-WARNING **: 14:44:05.977: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7433): Gtk-WARNING **: 14:44:05.977: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546263847433	Marionette	INFO	Listening on port 44785
+1546263847476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546269817130	Marionette	INFO	Stopped listening on port 44785
+[Parent 7433, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546269854155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.omdzSMTPm9gF"
+1546269854650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546269854650	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9106): Gtk-WARNING **: 16:24:14.884: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9106): Gtk-WARNING **: 16:24:14.884: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546269856365	Marionette	INFO	Listening on port 41613
+1546269856487	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546269892184	Marionette	INFO	Stopped listening on port 41613
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1546269986942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0qsK8es8V4xf"
+1546269987451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546269987451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9585): Gtk-WARNING **: 16:26:27.687: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9585): Gtk-WARNING **: 16:26:27.687: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546269989141	Marionette	INFO	Listening on port 40689
+1546269989186	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546270131939	Marionette	INFO	Stopped listening on port 40689
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 9749, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1546270134290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k25kidmbVs1y"
+1546270134794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546270134795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:9938): Gtk-WARNING **: 16:28:55.035: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9938): Gtk-WARNING **: 16:28:55.035: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546270136514	Marionette	INFO	Listening on port 37687
+1546270136611	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546270217155	Marionette	INFO	Stopped listening on port 37687
+[Parent 9938, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1546270219694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0DBj0JxVOp0j"
+1546270220189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546270220189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10294): Gtk-WARNING **: 16:30:20.424: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10294): Gtk-WARNING **: 16:30:20.425: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546270221919	Marionette	INFO	Listening on port 45043
+1546270222983	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546270366798	Marionette	INFO	Stopped listening on port 45043
+[Parent 10294, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[Child 10456, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-64.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+1546270369031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KqoXQNZ6XBou"
+1546270369517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546270369517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:10670): Gtk-WARNING **: 16:32:49.754: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10670): Gtk-WARNING **: 16:32:49.754: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546270371203	Marionette	INFO	Listening on port 37649
+1546270371250	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1546343126098	Marionette	INFO	Stopped listening on port 37649
+1546352333441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OpOhkh6qPN4A"
+1546352341683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1546352341683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+
+(firefox:30573): Gtk-WARNING **: 15:19:04.787: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:30573): Gtk-WARNING **: 15:19:04.787: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1546352349745	Marionette	INFO	Listening on port 35195
+1546352349793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-2.1.2.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1546352380277	Marionette	INFO	Stopped listening on port 35195

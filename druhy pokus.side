@@ -1,0 +1,80 @@
+{
+  "id": "4be54e01-764e-4909-b4e4-513e527f163b",
+  "version": "1.1",
+  "name": "druhy pokus",
+  "url": "https://portal.pixelfederation.com",
+  "tests": [{
+    "id": "be88081c-994f-4565-902b-2f2142cb0faa",
+    "name": "rybicky",
+    "commands": [{
+      "id": "e398f116-3d51-4783-88a4-f039820d70fb",
+      "comment": "",
+      "command": "open",
+      "target": "/cs/seaport/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "39f7e504-eaef-44f0-811b-7ca29de44361",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1600x873",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "57e527e0-38e6-4d9f-9f0c-7c4839fb1007",
+      "comment": "",
+      "command": "pause",
+      "target": "20000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b084e128-061e-46da-a4e3-742c770b6010",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "d5cd9de2-acf2-4852-bd0d-0e70ad6fe3c3",
+      "comment": "",
+      "command": "clickAt",
+      "target": "id=Game",
+      "targets": [
+        ["id=Game", "id"],
+        ["name=Game", "name"],
+        ["css=#Game", "css"],
+        ["css=#Game", "css:finder"],
+        ["xpath=//object[@id='Game']", "xpath:attributes"],
+        ["xpath=//div[@id='flash_container']/object", "xpath:idRelative"],
+        ["xpath=//object", "xpath:position"]
+      ],
+      "value": "10,20"
+    }, {
+      "id": "90d67122-2f30-4759-ac53-7e370d3fa587",
+      "comment": "",
+      "command": "clickAt",
+      "target": "id=Game",
+      "targets": [],
+      "value": "50, 50"
+    }, {
+      "id": "492c64ad-d52f-4ca7-bc77-a396f1a745f1",
+      "comment": "",
+      "command": "addSelection",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "95c91012-da8b-4432-8dfb-1a10f98de2fd",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["be88081c-994f-4565-902b-2f2142cb0faa"]
+  }],
+  "urls": ["https://portal.pixelfederation.com/"],
+  "plugins": []
+}
